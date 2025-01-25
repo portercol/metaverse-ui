@@ -31,7 +31,7 @@ export const navVariants = {
         type,
         delay,
         duration,
-        ease: 'easeOut',
+        ease: 'easeIn',
       },
     },
   });
