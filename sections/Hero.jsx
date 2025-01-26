@@ -1,4 +1,5 @@
 "use client";
+
 import React from "react";
 import { motion } from "framer-motion";
 import styles from "../styles/index.js";
@@ -47,7 +48,7 @@ const Hero = () => {
             alt="cover graphic"
             className="w-full sm:h-[500px] h-[300px] object-cover rounded-tl-[140px] z-10 relative"
           />
-          <a href="#About">
+          <a href="#explore">
             <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10">
               <img
                 src="/stamp.png"
