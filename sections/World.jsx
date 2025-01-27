@@ -40,7 +40,7 @@ const World = () => {
 
           <div
             className="absolute w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]"
-            style={{ bottom: "20 %", right: "15%" }}
+            style={{ bottom: "20%", right: "15%" }}
           >
             <img src="people-01.png" alt="austrailian avatar" className="w-full h-full" />
           </div>

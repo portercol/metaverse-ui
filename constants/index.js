@@ -50,21 +50,21 @@ export const exploreWorlds = [
   export const insights = [
     {
       imgUrl: '/planet-06.png',
-      title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+      title: 'The launch of the Metaverse makes Elon musk worried',
       subtitle:
-          'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+          'How the virtual world is sparking real-world concerns among tech giants.',
     },
     {
       imgUrl: '/planet-07.png',
       title: '7 tips to easily master the madness of the Metaverse',
       subtitle:
-          'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+          'Navigate the chaos and thrive in the new digital frontier.',
     },
     {
       imgUrl: '/planet-08.png',
-      title: 'With one platform you can explore the whole world virtually',
+      title: 'With one platform you can explore the entire world virtually',
       subtitle:
-          'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+          'Step into a limitless world where adventure is just a click away.',
     },
   ];
   
