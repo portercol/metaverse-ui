@@ -37,13 +37,13 @@ export const exploreWorlds = [
       imgUrl: '/vrpano.svg',
       title: 'A new world',
       subtitle:
-          'we have the latest update with new world for you to try never mind',
+          'We always have the most up to date features in every new world for you to try.',
     },
     {
       imgUrl: '/headset.svg',
       title: 'More realistic',
       subtitle:
-          'In the latest update, your eyes are narrow, making the world more realistic than ever',
+          'In the latest update, your eyes are narrow, making the world more realistic than ever.',
     },
   ];
   
