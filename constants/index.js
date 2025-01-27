@@ -72,17 +72,21 @@ export const exploreWorlds = [
     {
       name: 'twitter',
       url: '/twitter.svg',
+      alt: 'twitter icon'
     },
     {
       name: 'linkedin',
       url: '/linkedin.svg',
+      alt: 'linkedin icon'
     },
     {
       name: 'instagram',
       url: '/instagram.svg',
+      alt: 'instagram icon'
     },
     {
       name: 'facebook',
       url: '/facebook.svg',
+      alt: 'facebook icon'
     },
   ];
